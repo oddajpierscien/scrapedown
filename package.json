@@ -14,7 +14,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@hono/zod-validator": "^0.1.11",
+    "@hono/zod-validator": "^0.2.1",
     "@mozilla/readability": "^0.4.4",
     "hono": "^3.10.1",
     "linkedom": "^0.16.4",
